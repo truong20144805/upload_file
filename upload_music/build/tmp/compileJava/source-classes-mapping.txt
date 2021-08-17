@@ -1,0 +1,12 @@
+Service/MusicService.java
+ Service.MusicService
+Model/Music.java
+ Model.Music
+Configuration/AppInitializer.java
+ Configuration.AppInitializer
+Controller/MusicController.java
+ Controller.MusicController
+Model/MusicForm.java
+ Model.MusicForm
+Configuration/AppConfiguration.java
+ Configuration.AppConfiguration
